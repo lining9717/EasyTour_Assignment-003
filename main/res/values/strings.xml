@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyTour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="become_a_tourist">I want to be a tourist</string>
+    <string name="become_a_guider">I want to be a Guider</string>
+</resources>
